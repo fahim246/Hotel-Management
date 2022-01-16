@@ -12,9 +12,9 @@ PHP, HTML, CSS, JavaScript
 ![image](https://user-images.githubusercontent.com/89101128/149672654-46d0e475-303f-4c80-ac67-6d698a65d94a.png)
 ![image](https://user-images.githubusercontent.com/89101128/149672663-73011f8d-e6fc-4953-ba2d-314956f70db3.png)
 # Owner
-![image](https://user-images.githubusercontent.com/89101128/149672686-330754a2-61c8-4926-b7ba-e0bcc90a0ac2.png)
+![image](https://user-images.githubusercontent.com/89101128/149672781-6b525aaa-6478-4999-bf8a-c5629ff63891.png)
 ![image](https://user-images.githubusercontent.com/89101128/149672694-3870f675-456e-443c-8b4d-fe8668f349d8.png)
-![image](https://user-images.githubusercontent.com/89101128/149672699-e42e8ca8-3998-4eba-9442-da7fd07c79c9.png)
+![image](https://user-images.githubusercontent.com/89101128/149672798-4b9ee534-c282-4e4e-b164-d854aab9a138.png)
 # Admin
 ![image](https://user-images.githubusercontent.com/89101128/149672716-6f966282-f425-48a9-82bd-e6618ef93332.png)
 ![image](https://user-images.githubusercontent.com/89101128/149672723-e2986ae4-7553-4cef-b7c7-b67ef42782d5.png)
