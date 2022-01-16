@@ -1,4 +1,4 @@
-# Hotel-Management
+# Hotel-Management-System
 # Description
 This system is built to create a platform between general people and hotel or other service providing managements so that the communication can be done as easily as possible.
 Also it has information available from multiple sources so people can choose according to their convenience.
